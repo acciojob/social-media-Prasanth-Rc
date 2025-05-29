@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import PostList from './components/PostList';
-import UserList from './components/UserList';
-import NotificationList from './components/NotificationList';
-import CreatePost from './components/CreatePost';
-import EditPost from './components/EditPost';
+import Navbar from './Navbar';
+import PostList from './PostList';
+import UserList from './UserList';
+import NotificationList from './NotificationList';
+import CreatePost from './CreatePost';
+import EditPost from './EditPost';
 import './styles.css';
 
 function App() {
