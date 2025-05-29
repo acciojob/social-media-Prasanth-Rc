@@ -6,7 +6,7 @@ import UserList from './UserList';
 import NotificationList from './NotificationList';
 import CreatePost from './CreatePost';
 import EditPost from './EditPost';
-import './styles.css';
+import '../styles/App.css';
 
 function App() {
   return (
